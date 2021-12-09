@@ -1,0 +1,552 @@
+fileFormatVersion: 2
+guid: 44b33e9f13c228144b8f96a1c17740b5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1268068566782168241
+    second: EsqueletoIdle_0
+  - first:
+      213: 8147296329731408145
+    second: EsqueletoIdle_1
+  - first:
+      213: -2363343042974087720
+    second: EsqueletoIdle_2
+  - first:
+      213: -8816934006740976239
+    second: EsqueletoIdle_3
+  - first:
+      213: 3611895249535317781
+    second: EsqueletoIdle_4
+  - first:
+      213: 4309138378085530089
+    second: EsqueletoIdle_5
+  - first:
+      213: -3329019258596341549
+    second: EsqueletoIdle_6
+  - first:
+      213: 8434178806111112014
+    second: EsqueletoIdle_7
+  - first:
+      213: 9020076759649202837
+    second: EsqueletoIdle_8
+  - first:
+      213: 1034116941585376241
+    second: EsqueletoIdle_9
+  - first:
+      213: -3166983911069793656
+    second: EsqueletoIdle_10
+  - first:
+      213: -891762119226509973
+    second: EsqueletoIdle_11
+  - first:
+      213: 1410595905895219333
+    second: EsqueletoIdle_12
+  - first:
+      213: 5368405180482961308
+    second: EsqueletoIdle_13
+  - first:
+      213: -6416196141012556572
+    second: EsqueletoIdle_14
+  - first:
+      213: -2401388892776313839
+    second: EsqueletoIdle_15
+  - first:
+      213: 6477206750307220386
+    second: EsqueletoIdle_16
+  - first:
+      213: 2376270651967277270
+    second: EsqueletoIdle_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EsqueletoIdle_0
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 139
+        width: 459
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bcc3e994a5199110800000000000000
+      internalID: 1268068566782168241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EsqueletoIdle_1
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 139
+        width: 452
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1110c7d78d2011170800000000000000
+      internalID: 8147296329731408145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EsqueletoIdle_2
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 139
+        width: 452
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d583212608b33fd0800000000000000
+      internalID: -2363343042974087720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EsqueletoIdle_3
+      rect:
+        serializedVersion: 2
+        x: 2913
+        y: 139
+        width: 452
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d74282c35f3a580800000000000000
+      internalID: -8816934006740976239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EsqueletoIdle_4
+      rect:
+        serializedVersion: 2
+        x: 3810
+        y: 139
+        width: 459
+        height: 596
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5173972c797002230800000000000000
+      internalID: 3611895249535317781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EsqueletoIdle_5
+      rect:
+        serializedVersion: 2
+        x: 4713
+        y: 139
+        width: 452
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e97ac926822dcb30800000000000000
+      internalID: 4309138378085530089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EsqueletoIdle_6
+      rect:
+        serializedVersion: 2
+        x: 5609
+        y: 139
+        width: 459
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d84ee84f92fcc1d0800000000000000
+      internalID: -3329019258596341549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EsqueletoIdle_7
+      rect:
+        serializedVersion: 2
+        x: 6506
+        y: 139
+        width: 458
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b816e10f83c0570800000000000000
+      internalID: 8434178806111112014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EsqueletoIdle_8
+      rect:
+        serializedVersion: 2
+        x: 7409
+        y: 139
+        width: 459
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592b5a1c500cd2d70800000000000000
+      internalID: 9020076759649202837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EsqueletoIdle_9
+      rect:
+        serializedVersion: 2
+        x: 8304
+        y: 139
+        width: 460
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3e86f11ebe95e00800000000000000
+      internalID: 1034116941585376241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EsqueletoIdle_10
+      rect:
+        serializedVersion: 2
+        x: 9208
+        y: 139
+        width: 460
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882ce4b89ec9c04d0800000000000000
+      internalID: -3166983911069793656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EsqueletoIdle_11
+      rect:
+        serializedVersion: 2
+        x: 10112
+        y: 139
+        width: 459
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65ba5bc313df93f0800000000000000
+      internalID: -891762119226509973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EsqueletoIdle_12
+      rect:
+        serializedVersion: 2
+        x: 11008
+        y: 139
+        width: 459
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5804184b081739310800000000000000
+      internalID: 1410595905895219333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EsqueletoIdle_13
+      rect:
+        serializedVersion: 2
+        x: 11912
+        y: 139
+        width: 459
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fbd019118608a40800000000000000
+      internalID: 5368405180482961308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EsqueletoIdle_14
+      rect:
+        serializedVersion: 2
+        x: 12823
+        y: 139
+        width: 452
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4e6bdaa9715f6a0800000000000000
+      internalID: -6416196141012556572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EsqueletoIdle_15
+      rect:
+        serializedVersion: 2
+        x: 13727
+        y: 139
+        width: 452
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ccf7e668d8caed0800000000000000
+      internalID: -2401388892776313839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EsqueletoIdle_16
+      rect:
+        serializedVersion: 2
+        x: 14631
+        y: 139
+        width: 452
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2abf2d0c839a3e950800000000000000
+      internalID: 6477206750307220386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EsqueletoIdle_17
+      rect:
+        serializedVersion: 2
+        x: 15534
+        y: 139
+        width: 456
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d802b461953af020800000000000000
+      internalID: 2376270651967277270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
